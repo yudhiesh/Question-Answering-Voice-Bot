@@ -2,7 +2,7 @@
 
 ## TODO:
 
-1. Create the Question and Answering Bot for the SQuAD v1.1 Dataset which words
+1. Create the Question and Answering Bot for the SQuAD v1.1 Dataset which works
    on text data.
 2. Create the Text-to-Speech part which takes in the text from the output of the
    Question and Answering Bot and then converts it into speech which can be
